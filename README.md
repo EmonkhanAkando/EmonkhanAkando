@@ -1,6 +1,6 @@
-![Robiul Sunny Emon](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Robiul Sunny Emon](https://raw.githubusercontent.com/EmonKhanAkando/EmonKhanAkando/main/img/emon.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Emon</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Rs Emon -->
 
