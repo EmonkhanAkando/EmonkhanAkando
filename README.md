@@ -2,7 +2,7 @@
 
 <img alt="Night Coding" src="./img/Hand%20Wave.gif" width='40' align="left"/><h3>Hey there!</h3><h2> I'm Robiul Sunny Emon</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm RobiulSunny Emon -->
+<!-- ## 👋 &nbsp;Hey there! I'm Robiul Sunny Emon -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
