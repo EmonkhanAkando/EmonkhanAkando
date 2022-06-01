@@ -1,4 +1,4 @@
-![Robiul Sunny Emon](https://raw.githubusercontent.com/EmonKhanAkando/EmonKhanAkando/main/img/emon.jpg)
+![Robiul Sunny Emon](https://raw.githubusercontent.com/EmonKhanAkando/EmonKhanAkando/main/img/IMG_20220602_030556.jpg.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Emon</h2>
 
